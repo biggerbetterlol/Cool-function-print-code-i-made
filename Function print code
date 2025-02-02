@@ -1,0 +1,8 @@
+start by making function code------
+
+function MyPrintCode()
+  print("Hello this is my project called cool function printcode)
+end
+
+now call the function code to make the code works-----
+function MyPrintCode() 
