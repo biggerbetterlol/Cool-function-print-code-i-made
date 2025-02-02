@@ -6,3 +6,5 @@ end
 
 now call the function code to make the code works-----
 function MyPrintCode() 
+
+the output will result anything in the print. to make more efficient we can call the function multiple times to repeat this. for example if we call the function 10 times, in the output will result anything inside print be repeated 10 times. ------
