@@ -1,10 +1,12 @@
-start by making function code------
+// start by making function code
 
 function MyPrintCode()
   print("Hello this is my project called cool function printcode)
 end
 
-now call the function code to make the code works-----
+// now call the function code to make the code works
 function MyPrintCode() 
 
-the output will result anything in the print. to make more efficient we can call the function multiple times to repeat this. for example if we call the function 10 times, in the output will result anything inside print be repeated 10 times. ------
+// the output will result anything in the print
+// to make more efficient we can call the function multiple times to repeat this
+// for example if we call the function 10 times, in the output will result anything inside print be repeated 10 times
